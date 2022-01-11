@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeInMinutesApp</string>
+    <string name="age">AGE</string>
+    <string name="calculateYour">CALCULATE YOUR</string>
+    <string name="insert_your_born_date">INSERT YOUR BORN DATE</string>
+    <string name="in_days">IN DAYS</string>
+</resources>
